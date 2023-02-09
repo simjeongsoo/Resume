@@ -51,6 +51,27 @@
   - 텍스트 기반 위치 검색 서비스 
   - 전기차 충전소 상세정보 제공 
   - 현위치 기반 충전소 최단경로 찾기
+- [Github Repository](https://github.com/simjeongsoo/spring-flutter)
+
+--------------------------
+
+### [ShopManagement]
+
+& 웹 쇼핑몰 주문, 예약 관리 애플리케이션
+
+- 언어 : java , javascript
+- 관련 기술
+  - Spring Boot, DDD(Domain Driven Design)
+  - Spring Security, Spring MVC, JPA Hibernate
+  - Querydsl, JQPL, BootStrap, thymeleaf
+  
+- 기능
+  - 회원 조회
+  - 회원 상태 조회
+  - 상품 등록/취소
+  - 재고 상품 관리
+  - 상품 주문/취호
+  - 주문 내역 조회
 
 --------------------------
 
