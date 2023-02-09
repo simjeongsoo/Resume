@@ -54,6 +54,33 @@
 - [Github Repository](https://github.com/simjeongsoo/spring-flutter)
 
 --------------------------
+### [EasyCarPool]
+
+<img width="634" alt="easyCarPool" src="https://github.com/simjeongsoo/Resume/blob/master/images/EasyCarPool.png?raw=true">
+
+
+& 사용자간 카풀서비스를 제공하는 웹 애플리케이션
+
+- 언어 : Java, JavaScript
+- 관련 기술
+  - Spring Boot, Spring Security, Spring Data JPA
+  - thymeleaf, BootStrap
+
+- 기능
+    - Spring Security - 로그인 및 회원가입 게시판 CRUD
+    - STOMP 기반 채팅 기능
+    - 웹프론트
+    - 운전자, 차량 인증
+    - 게시판 CRUD
+    - 사용자 권한별 리소스 제한 관리자페이지 구현
+    - 사용자 정보 관리
+    - 사용자 권한 관리 고객센터(1:1 채팅 기능)
+  
+
+- [Github Repository](https://github.com/simjeongsooCarPoolService/tree/master/WebCarPool)
+
+
+--------------------------
 
 ### [ShopManagement]
 
