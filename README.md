@@ -27,7 +27,7 @@
 
 --------------------
 
-### [BeautySome]
+### [EvStation]
 
 <img width="634" alt="springflutterapp" src="https://github.com/simjeongsoo/Resume/blob/master/images/springflutterapp.png?raw=true">
 
