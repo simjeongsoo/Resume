@@ -27,6 +27,32 @@
 
 --------------------
 
+### [BeautySome]
+
+<img width="634" alt="springflutterapp" src="https://github.com/simjeongsoo/Resume/blob/master/images/springflutterapp.png?raw=true">
+
+
+& 공공데이터 기반 전기차 충전소 애플리케이션
+
+- 언어 : Dart, java
+- 관련 기술
+  - Spring Boot, Flutter, Dart, Spring JWT, Spring 
+  - Security, Google maps api, Google Place api
+  - Google Directions api, Rest Api, Json to POJO
+  - Spring WebFlux, Spring Data JPA
+
+
+- 기능
+  - Ios, Android App
+  - Spring JWT 토큰 기반 인증/인가
+  - Flutter JWT 인증로직 
+  - validation
+  - GPS 기반 위치 서비스
+  - 텍스트 기반 위치 검색 서비스 
+  - 전기차 충전소 상세정보 제공 
+  - 현위치 기반 충전소 최단경로 찾기
+
+
 ### [SmartDashCam]
 
 영상처리를 이용한 주행보조 기능을 제공하는 안드로이드 블랙박스 앱 입니다.
