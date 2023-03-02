@@ -126,3 +126,18 @@
 - 영상
 
 [![SmartDashCam](https://i9.ytimg.com/vi_webp/D_NHKn3G3aE/mq3.webp?sqp=COiGlJ8G-oaymwEmCMACELQB8quKqQMa8AEB-AHUBoAC4AOKAgwIABABGCMgZSgaMA8=&rs=AOn4CLCz1Pe0sOuq3XgtDfEQjbsh8XlVig)](https://youtu.be/D_NHKn3G3aE)
+
+
+--------------------------
+
+### [AWS-ClientServer 통신환경 구축 강의자료]
+- Android 클라이언트에서 request
+- AWS EC2 클라우드 환경에서 배포한 node.js 서버 response
+- 배포환경 : AWS EC2 Ubuntu
+- Client : Android(Kotlin)
+  - okhttp3, retrofit2
+- Server : node.js  
+  - express, multer, storage
+
+
+- [Github Repository](https://github.com/simjeongsoo/AWS-ClientSerer-Communication)
