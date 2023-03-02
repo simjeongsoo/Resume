@@ -6,12 +6,12 @@
 ## RESUME
 - [Email](mailto:simking95@google.com)
 - [Github](https://github.com/simjeongsoo)
-- [Notion](https://chrome-expansion-872.notion.site/a087054d35ee9460391cf331f91447891)
+- [Notion](https://jeongsu-portfolio.notion.site/f1eed8b3984648b68dc4d947c5ee4309)
 
 
 ## **Educations**
 
-- 한국공학대학교(구 : 한국산업기술대학) 컴퓨터공학과 졸업
+- 한국공학대학교(구 : 한국산업기술대학) 컴퓨터공학부 졸업
 
 
 ## **Skills**
@@ -77,7 +77,7 @@
     - 사용자 권한 관리 고객센터(1:1 채팅 기능)
   
 
-- [Github Repository](https://github.com/simjeongsooCarPoolService/tree/master/WebCarPool)
+- [Github Repository](https://github.com/simjeongsoo/CarPoolService/tree/master/WebCarPool)
 
 
 --------------------------
